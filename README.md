@@ -13,5 +13,9 @@ A C#-based CLI Task Tracker demonstrating object-oriented programming (OOP) prin
 *   Modular Extraction Pattern: Features dedicated to extracting and parsed JSON ObjectElement into strongly-typed C# objects. to          ensure single responsibility principle(SRP)
 * Asynchronous Networking : utilizes Async/Await paradigm with HTTPCLIENT for non-blocked network request
 
-####  🔗🖇️LINK
+####  🔗🖇️LINKS
+*git url
 Project URL: https://github.com/Godsbelovedev/GitHubActivityTracker
+
+*road map url
+Project URL: https://roadmap.sh/projects/github-user-activity
