@@ -12,3 +12,6 @@ A C#-based CLI Task Tracker demonstrating object-oriented programming (OOP) prin
 *   Layered Architecture: Each layer is separated into infrastructure, application and entity layer.
 *   Modular Extraction Pattern: Features dedicated to extracting and parsed JSON ObjectElement into strongly-typed C# objects. to          ensure single responsibility principle(SRP)
 * Asynchronous Networking : utilizes Async/Await paradigm with HTTPCLIENT for non-blocked network request
+
+####  🔗🖇️LINK
+Project URL: https://github.com/Godsbelovedev/GitHubActivityTracker
